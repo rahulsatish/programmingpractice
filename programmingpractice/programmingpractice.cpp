@@ -10,7 +10,7 @@ public:
 			int value = start + duration - 1;
 			if (start>marker)
 			{
-				count += (value - start) + 1;
+				//count += (value - start) + 1;
 				marker = value;
 			}
 			else

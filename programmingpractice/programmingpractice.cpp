@@ -6,6 +6,7 @@
 
 int main()
 {
+	cout<<"davai"
     return 0;
 }
 
